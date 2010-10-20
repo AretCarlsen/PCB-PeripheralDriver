@@ -7,6 +7,7 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
+UsedLibrary="C:/Program Files/EAGLE-5.10.0/lbr/19inch.lbr"
 UsedLibrary="C:/Program Files/EAGLE-5.10.0/lbr/40xx.lbr"
 UsedLibrary="C:/Program Files/EAGLE-5.10.0/lbr/41xx.lbr"
 UsedLibrary="C:/Program Files/EAGLE-5.10.0/lbr/45xx.lbr"

@@ -1,0 +1,39 @@
+Partlist exported from C:/Users/marla/Documents/eagle/MB-Peripheral-2/MB-Peripheral-2.sch at 10/19/2010 10:25:07 PM
+
+Part      Value     Device       Package               Description               
+BEC       6V        M03LOCK      1X03_LOCK             Header 3                  
+CLK       20MHz     CRYSTALHC49S HC49/S                CRYSTAL                   
+CLKC1     18pF      CAPPTH       CAP-PTH-SMALL         Capacitor                 
+CLKC2     18pF      CAPPTH       CAP-PTH-SMALL         Capacitor                 
+COMMS               M05LOCK      1X05_LOCK             Header 5                  
+JP1                 M03LOCK      1X03_LOCK             Header 3                  
+JP2                 M03LOCK      1X03_LOCK             Header 3                  
+JP3                 M05LOCK      1X05_LOCK             Header 5                  
+JP4                 M03LOCK      1X03_LOCK             Header 3                  
+JP5                 M03LOCK      1X03_LOCK             Header 3                  
+JP7       STAND-OFF STAND-OFF    STAND-OFF             Stand Off                 
+JP9                 M03LOCK      1X03_LOCK             Header 3                  
+JP10                M03LOCK      1X03_LOCK             Header 3                  
+JP11                M03LOCK      1X03_LOCK             Header 3                  
+JP12                M03LOCK      1X03_LOCK             Header 3                  
+JP13                M03LOCK      1X03_LOCK             Header 3                  
+JP14                M03LOCK      1X03_LOCK             Header 3                  
+JP15                M03LOCK      1X03_LOCK             Header 3                  
+JP16                M03LOCK      1X03_LOCK             Header 3                  
+JP17                M03LOCK      1X03_LOCK             Header 3                  
+JP18                M03LOCK      1X03_LOCK             Header 3                  
+JP19                M03LOCK      1X03_LOCK             Header 3                  
+JP20                M03LOCK      1X03_LOCK             Header 3                  
+JP21                M03LOCK      1X03_LOCK             Header 3                  
+JP22                M03LOCK      1X03_LOCK             Header 3                  
+JP23                M03LOCK      1X03_LOCK             Header 3                  
+JP24                M03LOCK      1X03_LOCK             Header 3                  
+JP25                M03LOCK      1X03_LOCK             Header 3                  
+JP27                M03LOCK      1X03_LOCK             Header 3                  
+JP29      STAND-OFF STAND-OFF    STAND-OFF             Stand Off                 
+JP30      STAND-OFF STAND-OFF    STAND-OFF             Stand Off                 
+UC        ATmegaX8  DIL28-3      DIL28-3               Dual In Line              
+VCC-CAP             CAP_POLPTH1  CPOL-RADIAL-100UF-25V Capacitor Polarized       
+VCC-LED   3.8V      LED3MM       LED3MM                LEDs                      
+VCC-LED-R 1.2k      RESISTORPTH1 AXIAL-0.3             Resistor                  
+VCC-REG   78L05Z    78L05Z       TO92                  Positive VOLTAGE REGULATOR

@@ -1,0 +1,6 @@
+Copyright (C) 2010, Aret N Carlsen (aretcarlsen@autonomoustools.com).
+Peripheral Driver PCB design.
+
+Microcontroller board intended for peripheral control. Outputs are 3-pin (servo style), providing Signal/Power/Ground.
+Separate power supplies for microcontroller logic and servo motors
+Daughterboard mounting area, e.g. for communications adapters.
