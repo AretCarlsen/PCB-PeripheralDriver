@@ -1,0 +1,15 @@
+Partlist exported from C:/Users/marla/Documents/eagle/MB-Peripheral-1/Proj.sch at 8/2/2010 4:18:38 PM
+
+Qty Value     Device        Parts                                                                                                                        
+2             CAPPTH        C2, C3                                                                                                                       
+1             CAPPTH1       C1                                                                                                                           
+1             CRYSTALHC49S  CLK                                                                                                                          
+1             DIL28-3       ATMEGAX8                                                                                                                     
+1             LED3MM        VCC                                                                                                                          
+1             M02LOCK       JP26                                                                                                                         
+22            M03LOCK       JP1, JP2, JP4, JP5, JP9, JP10, JP11, JP12, JP13, JP14, JP15, JP16, JP17, JP18, JP19, JP20, JP21, JP22, JP23, JP24, JP25, JP27
+1             M05LOCK       COMMS                                                                                                                        
+1             M023.5MM_LOCK PWR                                                                                                                          
+1             RESISTORPTH1  R1                                                                                                                           
+1   78L05Z    78L05Z        IC1                                                                                                                          
+4   STAND-OFF STAND-OFF     JP3, JP7, JP29, JP30                                                                                                         
