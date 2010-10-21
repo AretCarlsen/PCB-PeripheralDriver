@@ -1,5 +1,6 @@
 Copyright (C) 2010, Aret N Carlsen (aretcarlsen@autonomoustools.com).
 Peripheral Driver PCB design.
 
-These PCB design files (boards, schematic, gerbers, etc) are released under a Creative Commons Attribution-Share Alike 3.0 United States License.
+These PCB design files (boards, schematic, gerbers, etc) are released under a Creative Commons Attribution-Share Alike 3.0 United States License:
+  http://creativecommons.org/licenses/by-nc-sa/3.0/us/
 All modifications made to these plans must be released under the same Creative Commons license.
